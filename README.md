@@ -1,5 +1,4 @@
-# PROJECT532
-# ✨  Glory Luxe ✨
+# ✨ GloryLuxe  ✨
 
 This is a web based application developed for health related based website in india
 
@@ -24,7 +23,6 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Web capture_16-11-2022_215556_salmon-pebble-08103a200 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/202236191-e6441f02-47bc-4989-9659-b82f5e6f53d4.jpeg)
 
 
 
@@ -34,22 +32,33 @@ This is a web based application developed for health related based website in in
 ### About Us -
 
 
-![Web capture_16-11-2022_215556_salmon-pebble-08103a200 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/202236635-022929eb-e404-475b-a6ad-61e3bf728c2d.jpeg)
+ 
+ 
+ 
+ ![Screenshot (2)](https://user-images.githubusercontent.com/118057610/202238607-68a347b9-9026-4053-a17b-3e432de6504f.png)
 
-### Services -
+### Services-
+ -
 
 
-![Web capture_16-11-2022_215556_salmon-pebble-08103a200 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/202236658-53c1d268-e5ed-422e-9969-69512c2df0c6.jpeg)
+![Screenshot (3)](https://user-images.githubusercontent.com/118057610/202238751-11656874-6375-4686-aa05-c9c8089e0ad4.png)
+
+
 
 ### Contact us -
 
-![Web capture_16-11-2022_215556_salmon-pebble-08103a200 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/202236673-b2fe4601-2799-4f8d-a7fe-3c024be413b8.jpeg)
+
+
+![Screenshot (4)](https://user-images.githubusercontent.com/118057610/202238853-27ce8b75-6dd9-4799-954b-0c5610220b35.png)
+
 
 
 ### health bot
 
 
-![Web capture_16-11-2022_215556_salmon-pebble-08103a200 2 azurestaticapps net](https://user-images.githubusercontent.com/118057610/202236691-2123afe5-7e47-4034-aa52-c92bfe4f056f.jpeg)
+
+
+![Screenshot (5)](https://user-images.githubusercontent.com/118057610/202239306-f422a4d0-9d1d-4f4a-b0b5-b40683fc5913.png)
 
 
 ## Tech Stack 💻
